@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @immanuel-rajadurai
-- 👀 I’m interested in Artificial intelligence, Python, Java, Scala
-- 🌱 I’m currently learning Web Development, AI and other relevent modules
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Artificial intelligence, Python, Java, Scala, Javascript
+- 🌱 I’m currently doing Web Development and Maching Learning prjects
+- 💞️ I’m looking to collaborate on Projects that use Machine Learning and also Web Development Projects
 - 📫 How to reach me ...
 
 <!---
